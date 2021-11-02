@@ -1,0 +1,27 @@
+/*
+Additional Stylesheet
+Date: 20 October 2021
+*/
+
+body {
+    background-color: black;
+    font-size: 24px;
+}
+form group {
+    width: 100%;
+    margin-top: 20px;
+    font-size: 20px;
+}
+form-group input,
+form-group textarea{
+    width: 100%;
+    padding: 50px;
+    font-size: 10px;
+    border color: aliceblue;
+    border: 1px solid;
+    margin-top: 5px;
+}
+textarea{
+    color: black;
+    resize: both;
+}
